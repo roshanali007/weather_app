@@ -1,8 +1,9 @@
-import React from 'react'
+
 import { MainWrapper } from './styles.module'
 import { AiOutlineSearch } from "react-icons/ai";
 import { WiHumidity } from "react-icons/wi";
 import { LuWind } from "react-icons/lu";
+
 
 function DisplayWeather() {
   return (
